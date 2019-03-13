@@ -1,1 +1,1 @@
-"# E-commerce website" 
+Byekar.com is an e-commerce website where viewer can buy the products and admin can add the products.To buy the products customer have to login and after login messeage is sent to the user's phone.And e-mail is sent to the user's after completing the payment. I had made this project using PHP". 
